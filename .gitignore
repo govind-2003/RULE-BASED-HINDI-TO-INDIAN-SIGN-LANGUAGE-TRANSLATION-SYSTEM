@@ -1,0 +1,6 @@
+# Ignore all ISL videos in folder
+ISL Videos/
+
+
+# Optional: ignore all .mp4 files everywhere
+*.mp4
